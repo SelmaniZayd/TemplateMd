@@ -1,5 +1,12 @@
 ---
-name: pull request
+
+name: (｡◕‿◕｡) Pull request
+about: From pull request
+title: ''
+labels: ''
+assignees: ''
 
 ---
-**Test**
+
+**Le pull request est super**
+

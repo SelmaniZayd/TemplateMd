@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-hello pull request
+**Pour faire un pull request faut passer par un admin **

@@ -1,6 +1,6 @@
 ---
 
-name: Pull request
+name: (｡◕‿◕｡) Pull request
 about: From pull request
 title: ''
 labels: ''
